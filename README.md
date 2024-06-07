@@ -8,7 +8,7 @@ I am a passionate developer with expertise in web and software development, incl
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImMiza&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ImMiza&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🚀 Contributions and Collaborations
 
