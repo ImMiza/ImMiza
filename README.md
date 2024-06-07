@@ -1,13 +1,6 @@
 # 👋 Hey, I'm Allan !
 
-![Your Avatar](https://avatars.githubusercontent.com/u/29520898?v=4)
-
 I am a passionate developer with expertise in web and software development, including aspects of networking, security, algorithm optimization, IoT, and design.
-
-## 📊 GitHub Stats
-
-![ImMiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImMiza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMiza&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
